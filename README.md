@@ -1,6 +1,6 @@
 # fiddlehead-skills
 
-a collection of skills that turn meeting transcripts into useful things. works with [claude code](https://claude.com/claude-code), [fiddlehead](https://fiddlehead.app), and any markdown-formatted meeting notes.
+a collection of skills that turn meeting transcripts into useful things. works with [claude code](https://claude.com/claude-code), [fiddlehead](https://fiddleheadai.com), and any markdown-formatted meeting notes.
 
 skills are markdown files. drop one in your notes folder and your ai agent knows what to do.
 
@@ -91,6 +91,6 @@ What good output looks like.
 
 ## about
 
-built by [fiddlehead](https://fiddlehead.app) — a macos meeting recorder that captures, transcribes, and structures your meetings as local markdown files.
+built by [fiddlehead](https://fiddleheadai.com) — a macos meeting recorder that captures, transcribes, and structures your meetings as local markdown files.
 
 skills work with transcripts from any source. fiddlehead just happens to produce them automatically.
