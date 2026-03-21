@@ -18,6 +18,7 @@ skills are markdown files. drop one in your notes folder and your ai agent knows
 | **topic tracker** | traces how a topic evolved across meetings over time |
 | **meeting debrief** | structured post-mortem with dynamics, signals, and suggested follow-ups |
 | **meeting roi** | scores your meetings by outcomes and identifies time sinks |
+| **personal 360** | analyzes your communication patterns to surface strengths, blind spots, and growth areas |
 
 ## install
 
