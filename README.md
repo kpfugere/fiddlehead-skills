@@ -19,6 +19,10 @@ skills are markdown files. drop one in your notes folder and your ai agent knows
 | **meeting debrief** | structured post-mortem with dynamics, signals, and suggested follow-ups |
 | **meeting roi** | scores your meetings by outcomes and identifies time sinks |
 | **personal 360** | analyzes your communication patterns to surface strengths, blind spots, and growth areas |
+| **strategy frameworks** | applies proven business frameworks (SWOT, Porter's, BCG, Blue Ocean, JTBD, etc.) to evaluate companies, products, and markets |
+| **trend impact analysis** | projects the cascading, second-order impacts of an emerging trend on markets and incumbents |
+
+the last two are folder-based skills (a `SKILL.md` plus a `references/` directory) rather than single files. install them by copying the whole skill folder.
 
 ## install
 
@@ -33,6 +37,8 @@ when you open that folder with claude code, the skill is available. just ask for
 ```
 
 alternatively, copy the skill file into `~/.claude/skills/<skill-name>/SKILL.md` to make it available globally across all projects.
+
+for folder-based skills (e.g. **strategy frameworks**, **trend impact analysis**), copy the entire skill folder from `skills/<skill-name>/` — keep the `SKILL.md` and its `references/` directory together.
 
 ## transcript format
 
